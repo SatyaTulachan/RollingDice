@@ -70,7 +70,6 @@ public class DiceRolling {
         switch (roll){
             case 1:
                 System.out.println(dice1);
-                System.out.println("Hi");
                 break;
             case 2:
                 System.out.println(dice2);
